@@ -2,7 +2,7 @@
 
 ## Hi this is Md. Mahabub Alom
 ##### Web Developer
-![Web Developer](https://scontent.fdac17-1.fna.fbcdn.net/v/t1.6435-9/60616866_1069702529888350_5345595671892197376_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=IIKxNOWKyMEAX_D0QdE&_nc_ht=scontent.fdac17-1.fna&oh=e3409423eea4050c31ed82cd09cf6398&oe=61AA22E0)
+
 
 I am a self-motivated person and looking for opportunities to utilize my problem solving skills and go ahead in the field of software development. Most of the time i enjoy working with PHP, Laravel, Javascript.
 
